@@ -12,7 +12,7 @@ function Home() {
             <li><Link href="/contact-us"  className="cursor-pointer pb-1.5 transition-all hover:font-bold">contact-us</Link></li>
             <li><Link href="/dashboard"  className="cursor-pointer pb-1.5 transition-all hover:font-bold">Dashboard</Link></li>
             <li><Link href="/dashboard/analytics"  className="cursor-pointer pb-1.5 transition-all hover:font-bold">Analytic</Link></li>
-            <li><Link href="/dashboard/#settings"  className="cursor-pointer pb-1.5 transition-all hover:font-bold">Setting</Link></li>
+            <li><Link href="/dashboard/settings"  className="cursor-pointer pb-1.5 transition-all hover:font-bold">Setting</Link></li>
             <li><Link href="/dashboard/settings/password"  className="cursor-pointer pb-1.5 transition-all hover:font-bold">Password</Link></li>
             <li><Link href="/dashboard/settings/profile"  className="cursor-pointer pb-1.5 transition-all hover:font-bold">Profile</Link></li>
 
