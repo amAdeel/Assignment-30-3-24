@@ -1,4 +1,4 @@
 function dashboard(){
-    return(  <div>Dashboard</div> )
+    return(  <div> you are in Dashboard</div> )
   }
   export default dashboard;
